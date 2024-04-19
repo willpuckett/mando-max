@@ -1,0 +1,18 @@
+[submodule "reference/fly-e3-v2"]
+	path = reference/fly-e3-v2
+	url = https://github.com/Mellow-3D/fly-e3-v2
+[submodule "reference/EBB"]
+	path = reference/EBB
+	url = https://github.com/bigtreetech/EBB
+[submodule "reference/Voron-Tap"]
+	path = reference/Voron-Tap
+	url = https://github.com/VoronDesign/Voron-Tap
+[submodule "reference/tapchanger"]
+	path = reference/tapchanger
+	url = https://github.com/viesturz/tapchanger
+[submodule "reference/voron"]
+	path = reference/voron
+	url = https://github.com/chirpy2605/voron
+[submodule "reference/klipper-led_effect"]
+	path = reference/klipper-led_effect
+	url = https://github.com/julianschill/klipper-led_effect
