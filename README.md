@@ -1,4 +1,7 @@
-# Din Grogu Printer
+# Mando Max
 
-This repo contains the configuration and reference subrepos for a death star home build with Voron flair.
+![grogu under tapchanger](.images/grogu.jpg)
+
+This repo contains the configuration and reference subrepos for a Mando Max, a home build Mendel Max with Voron flair.
+
 
